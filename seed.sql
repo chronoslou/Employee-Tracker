@@ -1,5 +1,3 @@
---Create Database Schema--
-
 DROP DATABASE IF EXISTS emp_manager_db;
 CREATE DATABASE emp_manager_db;
 
@@ -31,7 +29,6 @@ CREATE TABLE employee
     , PRIMARY KEY (id)
 );
 
---Create Starting Table Data--
 
 INSERT INTO department (name)
 VALUES ("Operations")
