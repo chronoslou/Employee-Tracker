@@ -1,6 +1,6 @@
 # Employee-Tracker
 
-## Live Link: 
+## Live Link: https://drive.google.com/file/d/1Kye4xeH55s9R-NPEn-ejPyTtvJQ4NVgh/view
 
 ## Description
 This is an application that can be used to track the organization's employees.  This application will use MySQL, Inquirer, and console.table dependencies to make the app function. This application that will allow employers to successfully track their employees and view their information by department and role. 
