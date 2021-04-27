@@ -15,7 +15,7 @@ App will:
 In order to use this app, you will need to install MySQL, InquirerJs, and console.table. 
 
 ## Preview of App 
-![Screenshot](APPIMAGE.jpg)
+![Screenshot](Assets/app.gif)
 
 # Lincense
 * MIT
